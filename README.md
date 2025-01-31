@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently a Software developer 
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me send me a mail on hakunabell@gmail.com
+- 📫 How to reach me send me a mail on akunnabell@gmail.com
 
 <!---
 Akunnacode/Akunnacode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
