@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Akunnacode
-- 👀 I’m interested in coding
-- 🌱 I’m currently a Software developer 
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me send me a mail on akunnabell@gmail.com
+- Hello, I’m @Akunnacode
+- I am a dedicated Quality Assurance Specialist with a focus on ensuring the highest quality standards for software applications
+- I specialize in both automated and manual testing, creating detailed test cases, and performing thorough validation to identify and resolve issues
+- Currently, I am working as a Quality Assurance Specialist, contributing to improving product quality, performance, and user experience
+- I am passionate about delivering reliable and user-friendly software solutions through meticulous testing and quality assurance processes
+- Feel free to contact me at akunnabell@gmail.com
 
-<!---
-Akunnacode/Akunnacode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+  
